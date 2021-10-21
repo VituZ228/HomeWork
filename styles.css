@@ -35,3 +35,7 @@
 .gradient {
     background: linear-gradient(to top, #fefcea, #454743);
 }
+
+.stolbik:nth-child(even) {
+    background: rgb(153, 255, 255);
+}
